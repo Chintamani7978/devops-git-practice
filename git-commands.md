@@ -43,4 +43,19 @@ Shows current state of working directory and staging area.
 
 Example:
 git status
+---
+
+## Basic Workflow
+
+### git add
+Stages changes to be committed.
+
+Example:
+git add filename
+
+### git commit
+Creates a snapshot of staged changes.
+
+Example:
+git commit -m "your message"
 
