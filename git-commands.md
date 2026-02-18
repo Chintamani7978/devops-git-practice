@@ -59,3 +59,26 @@ Creates a snapshot of staged changes.
 Example:
 git commit -m "your message"
 
+
+---
+
+## Viewing Changes
+
+### git diff
+Shows changes between working directory and staging area.
+
+Example:
+git diff
+
+### git log
+Shows commit history.
+
+Example:
+git log
+
+### git log --oneline
+Shows compact commit history.
+
+Example:
+git log --oneline
+
