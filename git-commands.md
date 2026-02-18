@@ -82,3 +82,14 @@ Shows compact commit history.
 Example:
 git log --oneline
 
+
+---
+
+## Branch Information
+
+### git branch
+Lists branches.
+
+Example:
+git branch
+
