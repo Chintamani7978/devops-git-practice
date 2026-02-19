@@ -57,3 +57,14 @@ Temporary area where changes are prepared before committing.
 Repository:
 The permanent history of committed snapshots stored inside `.git/`.
 
+## Difference between git fetch and git pull
+
+git fetch:
+Downloads changes from remote repository but does NOT merge them.
+
+git pull:
+Downloads changes AND automatically merges them into the current branch.
+
+git pull = git fetch + git merge
+
+
