@@ -96,4 +96,8 @@ git branch
 This line was added directly on GitHub.
 ## Feature Login
 Login functionality notes.
+
 Hotfix directly on main.
+
+Signup feature structure.
+
