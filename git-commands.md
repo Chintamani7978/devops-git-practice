@@ -106,6 +106,7 @@ Minor improvement on main.
 Profile page layout.
 Fix typo in profile.
 Improve formatting.
+<<<<<<< HEAD
 Add profile validation
 
 
@@ -115,3 +116,6 @@ Hotfix change 2
 Hotfix change 3
 
 
+=======
+Add profile validation.
+>>>>>>> d75643a (Add profile feature (squashed commits))
