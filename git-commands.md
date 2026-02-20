@@ -106,11 +106,12 @@ Minor improvement on main.
 Profile page layout.
 Fix typo in profile.
 Improve formatting.
-Add profile validation.
+Add profile validation
 
 
 
 Hotfix change 1
 Hotfix change 2
 Hotfix change 3
+
 
