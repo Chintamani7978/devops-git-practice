@@ -102,3 +102,8 @@ Hotfix directly on main.
 Signup feature structure.
 
 Minor improvement on main.
+
+Profile page layout.
+Fix typo in profile.
+Improve formatting.
+Add profile validation.
