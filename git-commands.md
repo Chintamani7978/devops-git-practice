@@ -118,4 +118,14 @@ Hotfix change 3
 
 =======
 Add profile validation.
->>>>>>> d75643a (Add profile feature (squashed commits))
+>>>>>>> d75643a (Add profile feature (squashed commit
+
+## GitHub CLI (gh)
+
+gh auth login
+gh auth status
+gh repo create
+gh repo clone
+gh repo view
+gh repo list
+gh repo delete
