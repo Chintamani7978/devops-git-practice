@@ -106,6 +106,7 @@ Minor improvement on main.
 Profile page layout.
 Fix typo in profile.
 Improve formatting.
+<<<<<<< HEAD
 Add profile validation
 
 
@@ -115,3 +116,24 @@ Hotfix change 2
 Hotfix change 3
 
 
+=======
+Add profile validation.
+>>>>>>> d75643a (Add profile feature (squashed commit
+
+## GitHub CLI (gh)
+
+gh auth login
+gh auth status
+gh repo create
+gh repo clone
+gh repo view
+gh repo list
+gh repo delete
+
+
+
+gh issue create
+gh issue list
+gh issue view
+gh issue close
+gh label create
