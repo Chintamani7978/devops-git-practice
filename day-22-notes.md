@@ -1,4 +1,4 @@
-# Day 22 – Understanding Git Workflow
+### Day 22 – Understanding Git Workflow
 
 ## 1. What is the difference between `git add` and `git commit`?
 
